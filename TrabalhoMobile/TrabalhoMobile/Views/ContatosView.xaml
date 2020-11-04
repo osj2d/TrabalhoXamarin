@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrabalhoMobile.Views.ContatosView"
+             Title="Contatos">
+    <ContentPage.Content>
+        <StackLayout Grid.Row="0" VerticalOptions="Center">
+            <Image Margin="0,0,0,10" Source="logo.jpg"
+                   HeightRequest="100" > </Image>
+
+            <Label Text="CRUD de cadastro" FontFamily="Verdana"
+                   Margin="0,0,0,10"
+                   TextColor="Red" FontSize="40"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" ></Label>
+
+            <Entry x:Name ="edtId" Placeholder="Id" />
+            <Entry x:Name ="edtNome" Placeholder="Nome do usuário" />
+            <Entry x:Name ="edtEmail" Placeholder="Email" />
+
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name ="btnIncluir" WidthRequest="200" Text="Incluir" Clicked="btnIncluir_Clicked" BackgroundColor="Aqua" />
+                <Button x:Name ="btnExibir" WidthRequest="200" Text="Exibir" Clicked="btnExibir_Clicked" BackgroundColor="Pink" />
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name ="btnAtualizar" WidthRequest="200" Text="Atualizar" Clicked="btnAtualizar_Clicked" BackgroundColor="#dcd5d5" />
+                <Button x:Name ="btnDeletar" WidthRequest="200" Text="Deletar" Clicked="btnDeletar_Clicked" BackgroundColor="#b252a1" />
+
+            </StackLayout>
+
+            <CollectionView x:Name="listaContatos" BackgroundColor="AntiqueWhite">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout HeightRequest="25" WidthRequest="200" Orientation="Horizontal" Padding="0,5,0,5">
+                            <Label Text="{Binding ContatoId}" FontSize="Medium" TextColor="Black" VerticalOptions="Center" />
+                            <Label Text="{Binding Nome}" FontSize="Medium" TextColor="Black" VerticalOptions="Center" />
+                            <Label Text="{Binding Email}" FontSize="Medium" TextColor="Black" VerticalOptions="Center" />
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        
+
+
+        </StackLayout>
+
+
+
+
+    </ContentPage.Content>
+</ContentPage>

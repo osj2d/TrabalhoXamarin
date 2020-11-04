@@ -1,0 +1,23 @@
+C:\Users\João Paulo Preis\source\repos\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\bin\Debug\netstandard2.0\TrabalhoMobile.deps.json
+C:\Users\João Paulo Preis\source\repos\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\bin\Debug\netstandard2.0\TrabalhoMobile.dll
+C:\Users\João Paulo Preis\source\repos\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.csprojAssemblyReference.cache
+C:\Users\João Paulo Preis\source\repos\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\João Paulo Preis\source\repos\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\João Paulo Preis\source\repos\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.AssemblyInfoInputs.cache
+C:\Users\João Paulo Preis\source\repos\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.AssemblyInfo.cs
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\bin\Debug\netstandard2.0\TrabalhoMobile.deps.json
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\bin\Debug\netstandard2.0\TrabalhoMobile.dll
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\bin\Debug\netstandard2.0\ref\TrabalhoMobile.dll
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\bin\Debug\netstandard2.0\TrabalhoMobile.pdb
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.csprojAssemblyReference.cache
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\Views\ContatosView.xaml.g.cs
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.AssemblyInfoInputs.cache
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.AssemblyInfo.cs
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.csproj.CoreCompileInputs.cache
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.dll
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\ref\TrabalhoMobile.dll
+C:\Users\junio\Downloads\Final\TrabalhoMobile\TrabalhoMobile\TrabalhoMobile\obj\Debug\netstandard2.0\TrabalhoMobile.pdb
